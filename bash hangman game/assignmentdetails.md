@@ -1,4 +1,4 @@
-2. ### BASH HANGMAN GAME
+## BASH HANGMAN GAME
 #### ASOUE Hangman Game
 
 **Grade: 8/10**
